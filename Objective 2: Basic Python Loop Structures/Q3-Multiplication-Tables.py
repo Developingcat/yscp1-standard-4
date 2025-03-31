@@ -7,6 +7,7 @@ Description: Write a program that uses nested loops to print the multiplication 
 
 # Use a for loop to iterate through the numbers for each table
 
-
+# Review for
+    
     # Use a nested loop to print the table for each number
     

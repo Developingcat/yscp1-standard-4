@@ -14,3 +14,14 @@ If the person’s age is 18 or 21, print "Young Adult".
 age = int(input("Enter your age: "))
 
 # Add if-elif-else logic here with nested conditions
+
+# Review tonight 
+
+
+
+# if age < 13:
+#     print("Child.")
+# elif age ==:
+#     print("Teenager.")
+# else:
+#     print("This is a test")
