@@ -11,8 +11,18 @@ numbers = [10, 20, 30, 40, 50]  # List of numbers
 # Initialize a variable to hold the sum
 total_sum = 0
 
-# Review for
+# This is just asking to add all the numbers in the list
+# Think of it like the multiplication table for question 3, very similar possibly?  
+
+for i in range(1):
+    resultsOne = 20 + 10 # Equals 30 
+    resultsTwo = 30 + 40 # Equals 70 
+    resultsThree = resultsTwo + resultsOne # This equals 100  
+    total_sum = 50 + resultsThree # This equals 150 
+    print(total_sum)
+     
 
 
 # Use a for loop to iterate through the numbers
+
 
